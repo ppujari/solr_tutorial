@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.3
+Created-By: 1.6.0_31-b05 (Sun Microsystems Inc.)
+Extension-Name: org.apache.lucene
+Specification-Title: Lucene Search Engine: analyzers-phonetic
+Specification-Version: 4.0-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: org.apache.lucene
+Implementation-Version: 4.0-SNAPSHOT 1412359 - pradeepp - 2012-11-21 1
+ 6:09:28
+Implementation-Vendor: The Apache Software Foundation
+X-Compile-Source-JDK: 1.6
+X-Compile-Target-JDK: 1.6
+
